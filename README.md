@@ -18,3 +18,7 @@ tic-tac-toe.pl:
     either corner would get you a split.
     4. Then, you block the computer from winning and create a split at the same time by taking the last corner
     5. The computer will block one of the possible winning moves, but there should be one left for you to take and win
+
+black-jack-advice.pl:
+  Takes your deck of cards, the dealer's shown card, and determines if you should hit, stand, double, or split.
+  To run, run SWI-Prolog, consult the file, then query ask_advice.
